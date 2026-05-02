@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(Get-ChildItem -Path \"c:\\\\Passive Income\\\\ai-price-compare\" -Recurse -File)",
+      "Bash(Select-Object -First 30)",
+      "Bash(Format-Table FullName)",
+      "Bash(Get-ChildItem -Path \"c:\\\\Passive Income\\\\ai-price-compare\" -Force)",
+      "Bash(Format-List)",
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:openrouter.ai)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:models.dev)",
+      "WebFetch(domain:ai-model-pricing.com)",
+      "PowerShell(\\(Get-ChildItem -Path \"c:\\\\Passive Income\\\\ai-price-compare\" -Recurse -File\\).Count)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.llm-prices.com)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:ai.google.dev)",
+      "WebFetch(domain:pricepertoken.com)",
+      "WebFetch(domain:www.firecrawl.dev)"
+    ]
+  }
+}

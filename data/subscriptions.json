@@ -1,0 +1,138 @@
+{
+  "openai": {
+    "plans": [
+      {
+        "name": "ChatGPT Free",
+        "price": 0,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://openai.com/chatgpt/pricing",
+        "note": "Limited access to GPT-4o"
+      },
+      {
+        "name": "ChatGPT Plus",
+        "price": 20,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://openai.com/chatgpt/pricing",
+        "note": "Full GPT-4o access + DALL·E"
+      },
+      {
+        "name": "ChatGPT Pro",
+        "price": 200,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://openai.com/chatgpt/pricing",
+        "note": "Unlimited o1 pro mode + advanced features"
+      }
+    ]
+  },
+  "anthropic": {
+    "plans": [
+      {
+        "name": "Claude Free",
+        "price": 0,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://anthropic.com/claude/pricing",
+        "note": "Limited daily messages"
+      },
+      {
+        "name": "Claude Pro",
+        "price": 20,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://anthropic.com/claude/pricing",
+        "note": "5× more usage than free"
+      },
+      {
+        "name": "Claude Max (5×)",
+        "price": 100,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://anthropic.com/claude/pricing",
+        "note": "25× more usage than free"
+      },
+      {
+        "name": "Claude Max (20×)",
+        "price": 200,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://anthropic.com/claude/pricing",
+        "note": "100× more usage than free"
+      }
+    ]
+  },
+  "google": {
+    "plans": [
+      {
+        "name": "Gemini Free",
+        "price": 0,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://gemini.google.com",
+        "note": "Standard Gemini access"
+      },
+      {
+        "name": "Gemini Advanced",
+        "price": 20,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://one.google.com/about/ai-premium",
+        "note": "Gemini 2.5 Pro + 2TB Google One storage"
+      }
+    ]
+  },
+  "x-ai": {
+    "plans": [
+      {
+        "name": "X Premium",
+        "price": 8,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://x.ai/grok",
+        "note": "Basic Grok access on X platform"
+      },
+      {
+        "name": "X Premium+",
+        "price": 16,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://x.ai/grok",
+        "note": "Full Grok 3 access"
+      }
+    ]
+  },
+  "deepseek": {
+    "plans": [
+      {
+        "name": "DeepSeek Free",
+        "price": 0,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://chat.deepseek.com",
+        "note": "Free chat access via web/app"
+      }
+    ]
+  },
+  "mistralai": {
+    "plans": [
+      {
+        "name": "Le Chat Free",
+        "price": 0,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://chat.mistral.ai",
+        "note": "Access to Mistral models via Le Chat"
+      },
+      {
+        "name": "Le Chat Pro",
+        "price": 14,
+        "period": "month",
+        "lastVerified": "2026-05-01",
+        "url": "https://mistral.ai/pricing",
+        "note": "Priority access + advanced features"
+      }
+    ]
+  }
+}
