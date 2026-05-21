@@ -77,7 +77,7 @@
         "name": "Gemini Advanced",
         "price": 20,
         "period": "month",
-        "lastVerified": "2026-05-20",
+        "lastVerified": "2026-05-21",
         "url": "https://one.google.com/about/ai-premium",
         "note": "Gemini 2.5 Pro + 2TB Google One storage"
       }
@@ -129,7 +129,7 @@
         "name": "Le Chat Pro",
         "price": 0,
         "period": "month",
-        "lastVerified": "2026-05-20",
+        "lastVerified": "2026-05-21",
         "url": "https://mistral.ai/pricing",
         "note": "Priority access + advanced features"
       }
