@@ -11,17 +11,17 @@
       },
       {
         "name": "ChatGPT Plus",
-        "price": 20,
+        "price": 25,
         "period": "month",
-        "lastVerified": "2026-06-19",
+        "lastVerified": "2026-06-22",
         "url": "https://openai.com/chatgpt/pricing",
         "note": "Full GPT-4o access + DALL·E"
       },
       {
         "name": "ChatGPT Pro",
-        "price": 20,
+        "price": 136,
         "period": "month",
-        "lastVerified": "2026-06-19",
+        "lastVerified": "2026-06-22",
         "url": "https://openai.com/chatgpt/pricing",
         "note": "Unlimited o1 pro mode + advanced features"
       }
@@ -77,7 +77,7 @@
         "name": "Gemini Advanced",
         "price": 20,
         "period": "month",
-        "lastVerified": "2026-06-21",
+        "lastVerified": "2026-06-22",
         "url": "https://one.google.com/about/ai-premium",
         "note": "Gemini 2.5 Pro + 2TB Google One storage"
       }
@@ -129,7 +129,7 @@
         "name": "Le Chat Pro",
         "price": 14.99,
         "period": "month",
-        "lastVerified": "2026-06-21",
+        "lastVerified": "2026-06-22",
         "url": "https://mistral.ai/pricing",
         "note": "Priority access + advanced features"
       }
